@@ -2,7 +2,7 @@
 
 You can use this stack to replace your XAMPP instances. It contains a very basic setup with:
 - PHP 8.2
-- MariaDB 11.3.2
+- Mysql 5.2.1
 - PHPMyAdmin 5.2.1
 
 **You should only use this for testing/development! It is NOT suitable for production.**
