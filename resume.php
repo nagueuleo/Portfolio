@@ -196,46 +196,63 @@
                         <div class="pb-5"></div>
                         <!-- Skills Section-->
                         <section>
-                            <!-- Skillset Card-->
-                            <div class="card shadow border-0 rounded-4 mb-5">
-                                <div class="card-body p-5">
-                                    <!-- Professional skills list-->
-                                    <div class="mb-5">
-                                        <div class="d-flex align-items-center mb-4">
-                                            <div class="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i class="bi bi-tools"></i></div>
-                                            <h3 class="fw-bolder mb-0"><span class="text-gradient d-inline">Compétences</span></h3>
-                                        </div>
-                                        <div class="row row-cols-1 row-cols-md-3 mb-4">
-                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Programmation Web</div></div>
-                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Devops</div></div>
-                                            <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Analyse de données</div></div>
-                                        </div>
-                                        <div class="row row-cols-1 row-cols-md-3">
-                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Analyse de vulérabilités</div></div>
-                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Suite Office</div></div>
-                                            <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Machine learning et Deep learning</div></div>
-                                        </div>
-                                    </div>
-                                    <!-- Languages list-->
-                                    <div class="mb-0">
-                                        <div class="d-flex align-items-center mb-4">
-                                            <div class="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i class="bi bi-code-slash"></i></div>
-                                            <h3 class="fw-bolder mb-0"><span class="text-gradient d-inline">Languages</span></h3>
-                                        </div>
-                                        <div class="row row-cols-1 row-cols-md-3 mb-4">
-                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">HTML</div></div>
-                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">CSS</div></div>
-                                            <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">JavaScript</div></div>
-                                        </div>
-                                        <div class="row row-cols-1 row-cols-md-3">
-                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Python</div></div>
-                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">SQL</div></div>
-                                            <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Node.js</div></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
+    <!-- Skillset Card-->
+    <div class="card shadow border-0 rounded-4 mb-5">
+        <div class="card-body p-5">
+            <!-- Professional skills list-->
+            <div class="mb-5">
+                <div class="d-flex align-items-center mb-4">
+                    <div class="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i class="bi bi-tools"></i></div>
+                    <h3 class="fw-bolder mb-0"><span class="text-gradient d-inline">Compétences</span></h3>
+                </div>
+                <div class="row row-cols-1 row-cols-md-3 mb-4">
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Programmation Web</div></div>
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Devops</div></div>
+                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Analyse de données</div></div>
+                </div>
+                <div class="row row-cols-1 row-cols-md-3">
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Analyse de vulnérabilités</div></div>
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Suite Office</div></div>
+                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Machine learning et Deep learning</div></div>
+                </div>
+            </div>
+            <!-- Languages list-->
+            <div class="mb-5">
+                <div class="d-flex align-items-center mb-4">
+                    <div class="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i class="bi bi-code-slash"></i></div>
+                    <h3 class="fw-bolder mb-0"><span class="text-gradient d-inline">Langages</span></h3>
+                </div>
+                <div class="row row-cols-1 row-cols-md-3 mb-4">
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">HTML</div></div>
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">CSS</div></div>
+                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">JavaScript</div></div>
+                </div>
+                <div class="row row-cols-1 row-cols-md-3">
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Python</div></div>
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">SQL</div></div>
+                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Mongodb</div></div>
+                </div>
+            </div>
+            <!-- Technologies list-->
+            <div class="mb-0">
+                <div class="d-flex align-items-center mb-4">
+                    <div class="feature bg-primary bg-gradient-primary-to-secondary text-white rounded-3 me-3"><i class="bi bi-gear"></i></div>
+                    <h3 class="fw-bolder mb-0"><span class="text-gradient d-inline">Technologies</span></h3>
+                </div>
+                <div class="row row-cols-1 row-cols-md-3 mb-4">
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Docker</div></div>
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Openvas</div></div>
+                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">metasploit</div></div>
+                </div>
+                <div class="row row-cols-1 row-cols-md-3">
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Git</div></div>
+                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">PowerBI</div></div>
+                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Mongodb Cluster</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
                     </div>
                 </div>
             </div>
