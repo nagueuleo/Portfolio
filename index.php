@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title>NAGUEU Portfolio</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/icon/port.ico" />
         <!-- Custom Google font-->
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -56,7 +56,7 @@
                                 <div class="profile bg-gradient-primary-to-secondary">
                                     <!-- TIP: For best results, use a photo with a transparent background like the demo example below-->
                                     <!-- Watch a tutorial on how to do this on YouTube (link)-->
-                                    <img class="profile-img" src="assets/leo1.png" alt="..." />
+                                    <img class="profile-img" src="assets/images/leo1.png" alt="..." />
                                     <div class="dots-1">
                                         <!-- SVG Dots-->
                                         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 191.6 1215.4" style="enable-background: new 0 0 191.6 1215.4" xml:space="preserve">
@@ -194,9 +194,9 @@ rigueur analytique, créativité et esprit d’équipe pour transformer des
 données en solutions stratégiques et exploitables
 </p>
                                 <div class="d-flex justify-content-center fs-2 gap-4">
-                                    <a class="text-gradient" href="#!"><i class="bi bi-twitter"></i></a>
-                                    <a class="text-gradient" href="#!"><i class="bi bi-linkedin"></i></a>
-                                    <a class="text-gradient" href="#!"><i class="bi bi-github"></i></a>
+                                    <a class="text-gradient" href="https://x.com/King_Hakim11"><i class="bi bi-twitter"></i></a>
+                                    <a class="text-gradient" href="https://www.linkedin.com/in/nagueu-djambong-lionel-perin-7a4a1715a/"><i class="bi bi-linkedin"></i></a>
+                                    <a class="text-gradient" href="https://github.com/nagueuleo"><i class="bi bi-github"></i></a>
                                 </div>
                             </div>
                         </div>

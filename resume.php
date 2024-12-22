@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title>Personal - Start Bootstrap Template</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/icon/port.ico" />
         <!-- Custom Google font-->
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -103,9 +103,9 @@
                                     <div class="row align-items-center gx-5">
                                         <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                             <div class="bg-light p-4 rounded-4">
-                                                <div class="text-primary fw-bolder mb-2">Jan 2022 - Jan 2023</div>
-                                                <div class="small fw-bolder">Data Scientist (Stage)</div>
-                                                <div class="small text-muted">TOGETTECH</div>
+                                                <div class="text-primary fw-bolder mb-2">Jan 2020 - Au 2021</div>
+                                                <div class="small fw-bolder">Informaticien (bénévolat)</div>
+                                                <div class="small text-muted">ACDESOS</div>
                                                 <div class="small text-muted">Yaoundé, Cameroun</div>
                                             </div>
                                         </div>
@@ -169,6 +169,7 @@
                                     </div>
                                 </div>
                             </div>
+                            
                             <!-- Education Card 3-->
                             <div class="card shadow border-0 rounded-4 mb-5">
                                 <div class="card-body p-5">
@@ -181,12 +182,12 @@
                                                     <div class="small text-muted">Yaoundé I , Cameroun</div>
                                                 </div>
                                                 <div class="fst-italic">
-                                                    <div class="small text-muted">Master en informatique fondamentale</div>
-                                                    <div class="small text-muted"><br><b>Spécialité:fondamentale</b></div>
+                                                    <div class="small text-muted">Licence en informatique fondamentale</div>
+                                                    <div class="small text-muted"><br><b>Spécialité: sécurité Informatique</b></div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-8"><div>Permettre à l'étudiant de à comprendre les notions générales sur le génie logiciel, le réseau informatique et la sécurité informatique</div></div>
+                                        <div class="col-lg-8"><div>Permettre à l'étudiant de à comprendre les bases de la sécurité informatique et du réseau informatique et de leurs applications </div></div>
                                     </div>
                                 </div>
                             </div>
@@ -228,7 +229,7 @@
                                         </div>
                                         <div class="row row-cols-1 row-cols-md-3">
                                             <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Python</div></div>
-                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Java</div></div>
+                                            <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">SQL</div></div>
                                             <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Node.js</div></div>
                                         </div>
                                     </div>
