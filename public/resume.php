@@ -230,7 +230,7 @@
                 <div class="row row-cols-1 row-cols-md-3">
                     <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Python</div></div>
                     <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">SQL</div></div>
-                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Mongodb</div></div>
+                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">NoSQL</div></div>
                 </div>
             </div>
             <!-- Technologies list-->
@@ -242,12 +242,12 @@
                 <div class="row row-cols-1 row-cols-md-3 mb-4">
                     <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Docker</div></div>
                     <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Openvas</div></div>
-                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">metasploit</div></div>
+                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Mongodb</div></div>
                 </div>
                 <div class="row row-cols-1 row-cols-md-3">
                     <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Git</div></div>
                     <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">PowerBI</div></div>
-                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Mongodb Cluster</div></div>
+                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Looker studio</div></div>
                 </div>
             </div>
         </div>
@@ -257,17 +257,17 @@
                 </div>
             </div>
         </main>
-        <!-- Footer-->
-        <footer class="bg-white py-4 mt-auto">
+       <!-- Footer-->
+       <footer class="bg-white py-4 mt-auto">
             <div class="container px-5">
                 <div class="row align-items-center justify-content-between flex-column flex-sm-row">
-                    <div class="col-auto"><div class="small m-0">Copyright &copy; Your Website 2023</div></div>
+                    <div class="col-auto"><div class="small m-0">Copyright &copy; Portfolio NAGUEU 2023</div></div>
                     <div class="col-auto">
-                        <a class="small" href="#!">Privacy</a>
+                        <a class="small" href="https://github.com/nagueuleo">github</a>
                         <span class="mx-1">&middot;</span>
-                        <a class="small" href="#!">Terms</a>
+                        <a class="small" href="https://www.linkedin.com/in/nagueu-djambong-lionel-perin-7a4a1715a/">linkedin</a>
                         <span class="mx-1">&middot;</span>
-                        <a class="small" href="#!">Contact</a>
+                        <a class="small" href="contact.php">Contact</a>
                     </div>
                 </div>
             </div>

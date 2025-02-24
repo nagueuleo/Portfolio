@@ -1,0 +1,147 @@
+{
+    "functions": {
+        "api/index.php": {
+            "runtime": "vercel-php@0.7.1"
+            
+}
+    },
+    "functions": {
+        "api/resume.php": {
+            "runtime": "vercel-php@0.7.1"
+            
+}
+    },
+    "functions": {
+        "api/projects.php": {
+            "runtime": "vercel-php@0.7.1"
+            
+}
+    },
+    "functions": {
+        "api/contact.php": {
+            "runtime": "vercel-php@0.7.1"
+            
+}
+    },
+    "functions": {
+        "api/traitement.php": {
+            "runtime": "vercel-php@0.7.1"
+            
+}
+    },
+    "routes": [
+        {
+            "src": "/api/index.php",
+            "dest": "/api/index.php"
+        },
+        {
+            "src": "/css/styles.css",
+             "dest": "/public/css/styles.css"
+        },
+        {
+            "src": "/js/scripts.js",
+             "dest": "/public/js/scripts.js"
+        },
+        {
+            "src": "/js/validation.js",
+             "dest": "/public/js/validation.js"
+        },
+        {
+            "src": "/assets/doc/CV_Nagueu_Djambong_Lionel_Perin.pdf",
+            "dest": "/public/assets/doc/CV_Nagueu_Djambong_Lionel_Perin.pdf"
+        },
+        {
+            "src": "/assets/icon/favicon.ico",
+            "dest": "/public/assets/icon/favicon.ico"
+        },
+        {
+            "src": "/assets/favicon.ico",
+            "dest": "/public/assets/favicon.ico"
+        },
+        {
+            "src": "/assets/icon/port.ico",
+            "dest": "/public/assets/icon/port.ico"
+        },
+        {
+            "src": "/assets/leking1.png",
+            "dest": "public/assets/leking1.png"
+        },
+        {
+            "src": "/assets/leo1.png",
+            "dest": "public/assets/leo1.png"
+        },
+        {
+            "src": "/assets/images/(.*).png",
+            "dest": "public/assets/images/S1"
+        },
+        {
+            "src": "/assets/images/(.*).jpg",
+            "dest": "public/assets/images/S2"
+        },
+        {
+            "src": "/PHPMailer/language/(.*).php",
+            "dest": "public/PHPMailer/language/C1"
+        },
+        {
+            "src": "/PHPMailer/composer.json",
+            "dest": "public/PHPMailer/composer.json"
+        },
+        {
+            "src": "/PHPMailer/get_oauth_token.php",
+            "dest": "public/PHPMailer/get_oauth_token.php"
+        },
+        {
+            "src": "/PHPMailer/src/(.*).php",
+            "dest": "public/PHPMailer/src/C2"
+        },
+        {
+            "src": "/DockerFile",
+            "dest": "public/DockerFile"
+        },
+        {
+            "src": "/docker-compose.yml",
+            "dest": "public/docker-compose.yml"
+        },
+        {
+            "src": "/resume.php",
+            "dest": "/public/resume.php"
+        },
+        {
+            "src": "/projects.php",
+            "dest": "/public/projects.php"
+        },
+        {
+            "src": "/contact.php",
+            "dest": "/public/contact.php"
+        },
+        {
+            "src": "/traitement.php",
+            "dest": "/public/traitement.php"
+        },
+
+        {
+            "src": "/index.php",
+            "dest": "/api/index.php"
+        },
+        {
+            "src": "/resume.php",
+            "dest": "/api/resume.php"
+        },
+        {
+            "src": "/projects.php",
+            "dest": "/api/projects.php"
+        },
+        {
+            "src": "/contact.php",
+            "dest": "/api/contact.php"
+        },
+        {
+            "src": "/traitement.php",
+            "dest": "/api/traitement.php"
+        }
+       
+
+
+
+    ]
+}

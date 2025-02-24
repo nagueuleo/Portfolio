@@ -78,6 +78,18 @@
                         </div>
                     </div>
                 </div>
+                <!-- Project Card 3-->
+                <div class="card overflow-hidden shadow rounded-4 border-0 mb-5">
+                    <div class="card-body p-0">
+                        <div class="d-flex align-items-center">
+                            <div class="p-5">
+                                <h2 class="fw-bolder">Prédiction du cours des actions Aple</h2>
+                                <p>L'objectif de notre application est de construire un modèle capable de prédire efficacement le prix de clôture ajusté d'une entreprise Aple pour les 7 prochains jours.</p>
+                            </div>
+                            <img class="img-fluid" heigth="200px" weight="200px" src="assets/images/trad.png" alt="..." />
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -93,16 +105,17 @@
             </section>
         </main>
         <!-- Footer-->
+        <!-- Footer-->
         <footer class="bg-white py-4 mt-auto">
             <div class="container px-5">
                 <div class="row align-items-center justify-content-between flex-column flex-sm-row">
-                    <div class="col-auto"><div class="small m-0">Copyright &copy; Your Website 2023</div></div>
+                    <div class="col-auto"><div class="small m-0">Copyright &copy; Portfolio NAGUEU 2023</div></div>
                     <div class="col-auto">
-                        <a class="small" href="#!">Privacy</a>
+                        <a class="small" href="https://github.com/nagueuleo">github</a>
                         <span class="mx-1">&middot;</span>
-                        <a class="small" href="#!">Terms</a>
+                        <a class="small" href="https://www.linkedin.com/in/nagueu-djambong-lionel-perin-7a4a1715a/">linkedin</a>
                         <span class="mx-1">&middot;</span>
-                        <a class="small" href="#!">Contact</a>
+                        <a class="small" href="contact.php">Contact</a>
                     </div>
                 </div>
             </div>

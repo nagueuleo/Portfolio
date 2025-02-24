@@ -6,9 +6,9 @@ $phone = $_POST['phone'];
 $messageContent = $_POST['message']; // Renommé pour éviter la confusion
 
 // Construction du message
-$message = "Nom: " . $name . "\n" .
-           "Email: " . $email . "\n" .
-           "Téléphone: " . $phone . "\n" .
+$message = "Nom: " . $name . "<br>" .
+           "Email: " . $email . "<br>" .
+           "Téléphone: " . $phone . "<br>" .
            "Message: " . $messageContent;
 
 // Import PHPMailer classes into the global namespace
@@ -46,9 +46,11 @@ try {
 
     $mail->send();
     echo 'Message has been sent';
-    
-    // Redirection vers contact.php
+    // Redirection vers contact.php après l'envoi réussi
     header('Location: contact.php');
+    exit(); // Assurez-vous de sortir du script après la redirection
+    // Redirection vers contact.php
+    
     exit(); // Assurez-vous de sortir du script après la redirection
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
