@@ -120,24 +120,28 @@
         },
 
         {
-            "src": "/index.php",
+            "src": "/public/index.php",
             "dest": "/api/index.php"
         },
         {
-            "src": "/resume.php",
+            "src": "/public/resume.php",
             "dest": "/api/resume.php"
         },
         {
-            "src": "/projects.php",
+            "src": "/public/projects.php",
             "dest": "/api/projects.php"
         },
         {
-            "src": "/contact.php",
+            "src": "/public/contact.php",
             "dest": "/api/contact.php"
         },
         {
-            "src": "/traitement.php",
+            "src": "/public/traitement.php",
             "dest": "/api/traitement.php"
+        },
+        {
+            "src": "/README.md",
+            "dest": "/public/README.md"
         }
        
 
