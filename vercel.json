@@ -138,11 +138,8 @@
         {
             "src": "/public/traitement.php",
             "dest": "/api/traitement.php"
-        },
-        {
-            "src": "/README.md",
-            "dest": "/public/README.md"
         }
+        
        
 
 
